@@ -1,0 +1,103 @@
+{
+  "planets": {
+    "mercury": {
+      "maxDistance": 467,
+      "minDistance": 307,
+      "size": 1,
+      "velocity": 0.158
+    },
+    "venus": {
+      "maxDistance": 728,
+      "minDistance": 718,
+      "size": 2.48,
+      "velocity": 0.11666666666666665
+    },
+    "earth": {
+      "maxDistance": 1017,
+      "minDistance": 983,
+      "size": 2.61,
+      "velocity": 0.09933333333333333,
+      "satellites": [
+        "moon"
+      ]
+    },
+    "mars": {
+      "maxDistance": 1666,
+      "minDistance": 1382,
+      "size": 1.39,
+      "velocity": 0.08033333333333333
+    },
+    "jupiter": {
+      "maxDistance": 5455,
+      "minDistance": 4951,
+      "size": 28.7,
+      "velocity": 0.043666666666666666,
+      "satellites": [
+        "io",
+        "europa",
+        "ganymede",
+        "callisto"
+      ]
+    },
+    "saturn": {
+      "maxDistance": 10044,
+      "minDistance": 9014,
+      "size": 23.87,
+      "velocity": 0.032,
+      "satellites": [
+        "titan"
+      ]
+    },
+    "uranus": {
+      "maxDistance": 20070,
+      "minDistance": 18310,
+      "size": 10.40,
+      "velocity": 0.02266666666666667,
+      "satellites": [
+        "triton"
+      ]
+    },
+    "neptune": {
+      "maxDistance": 30360,
+      "minDistance": 29160,
+      "size": 10.09,
+      "velocity": 0.018
+    },
+    "pluto": {
+      "maxDistance": 49330,
+      "minDistance": 29730,
+      "size": 0.49,
+      "velocity": 0.00027666666666666665
+    }
+  },
+  "satellites": {
+    "io": {
+      "distance": 20,
+      "velocity": 1e-14
+    },
+    "europa": {
+      "distance": 35,
+      "velocity": 0.0002
+    },
+    "ganymede": {
+      "distance": 70,
+      "velocity": 0.000003
+    },
+    "callisto": {
+      "distance": 90,
+      "velocity": 1e-12
+    },
+    "moon": {
+      "distance": 20,
+      "velocity": 0.00001
+    },
+    "triton": {
+      "distance": 35,
+      "velocity": 0.00001
+    },
+    "titan": {
+      "distance": 85,
+      "velocity": 0.00001
+    }
+  }
+}

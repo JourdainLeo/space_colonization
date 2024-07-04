@@ -1,0 +1,11 @@
+Model Information:
+* title:	10th Doctor's TARDIS
+* source:	https://sketchfab.com/3d-models/10th-doctors-tardis-ee59563e7d3342ae9ad946ab93d8ca17
+* author:	Conor Norwood (https://sketchfab.com/ConorNorwood)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "10th Doctor's TARDIS" (https://sketchfab.com/3d-models/10th-doctors-tardis-ee59563e7d3342ae9ad946ab93d8ca17) by Conor Norwood (https://sketchfab.com/ConorNorwood) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
